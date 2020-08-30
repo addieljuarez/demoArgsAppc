@@ -1,0 +1,10 @@
+
+".container" : {
+    height: Ti.UI.SIZE,
+    top: 30,
+}
+'#imagen': {
+    height: Ti.UI.SIZE,
+    width: '50%',
+    borderColor: 'black',
+}

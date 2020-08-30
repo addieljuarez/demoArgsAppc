@@ -1,0 +1,6 @@
+<Alloy>
+	<View class="container">
+		<Label id='labeTitle'></Label>
+		<Label id='labelDescription'></Label>
+	</View>
+</Alloy>

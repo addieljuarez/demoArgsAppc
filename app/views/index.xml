@@ -1,0 +1,7 @@
+<Alloy>
+	<NavigationWindow id='navigation'>
+		<Window id='win1'>
+			<Button id='buttonOpenWin2'></Button>
+		</Window>
+	</NavigationWindow>
+</Alloy>

@@ -1,0 +1,7 @@
+
+".container" : {
+    backgroundColor: '#CECEF6',
+}
+'#scrollMain': {
+    layout: 'vertical',
+}

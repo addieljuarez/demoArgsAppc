@@ -1,0 +1,13 @@
+
+'#win1': {
+	backgroundColor: 'silver',
+	title: 'win1',
+	layout: 'vertical',
+}
+'#buttonOpenWin2':{
+	top: 30,
+	height: 50,
+	width: 200,
+	title: 'JSON',
+	borderColor: 'black',
+}

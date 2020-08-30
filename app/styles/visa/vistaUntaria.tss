@@ -1,0 +1,17 @@
+
+".container" : {
+    height: Ti.UI.SIZE,
+    layout: 'vertical'
+}
+'#labeTitle': {
+    top : 30,
+    font: {
+        fontSize: 35,
+    },
+    height: Ti.UI.SIZE
+}
+'#labelDescription': {
+    top: 40,
+    height: Ti.UI.SIZE,
+    color: 'blue',
+}

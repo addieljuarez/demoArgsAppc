@@ -1,0 +1,7 @@
+
+".container" : {
+    backgroundColor: '#F6CED8',
+}
+'#viewMain': {
+    layout: 'vertical',
+}
